@@ -15,8 +15,8 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Lua Engine (Lutro) 0.0.1</summary>
-		<description>Lutro is an experimental Lua game framework for libretro inspired by LÖVE.
+		<summary lang="en_GB">Lua Engine (Lutro) 0.0.1</summary>
+		<description lang="en_GB">Lutro is an experimental Lua game framework for libretro inspired by LÖVE.
 
 Supported files: .lutro, .lua</description>
 		<license>MIT</license>
