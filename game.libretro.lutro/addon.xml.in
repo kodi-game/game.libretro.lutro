@@ -21,5 +21,6 @@
 Supported files: .lutro, .lua</description>
 		<license>MIT</license>
 		<platform>@PLATFORM@</platform>
+		<source>https://github.com/kodi-game/game.libretro.lutro</source>
 	</extension>
 </addon>
