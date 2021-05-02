@@ -1,1 +1,1 @@
-lutro https://github.com/libretro/libretro-lutro/archive/7fbae5ddb9c5b877dd4da265c6cf097bfad07612.zip
+lutro https://github.com/libretro/libretro-lutro/archive/02f6d50cf9ea552b9ccaec9f97a00945b0a537df.zip
