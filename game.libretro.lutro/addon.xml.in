@@ -15,10 +15,10 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">Lua Engine (Lutro) 0.0.1</summary>
-		<description lang="en_GB">Lutro is an experimental Lua game framework for libretro inspired by LÖVE.</description>
 		<license>MIT</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.lutro</source>
+		<summary lang="en_GB">Lua Engine (Lutro) 0.0.1</summary>
+		<description lang="en_GB">Lutro is an experimental Lua game framework for libretro inspired by LÖVE.</description>
 	</extension>
 </addon>
