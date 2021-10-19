@@ -4,9 +4,21 @@
 # Lua Engine (Lutro)
 
 ### Description
+
 Lutro is an experimental Lua game framework for libretro inspired by LÖVE.
 
 ### License
+
 MIT
 
+### Icon
 
+Help make me an icon!
+
+### Fanart
+
+Help make me fanart!
+
+### Screenshots
+
+Help make me screenshots!
