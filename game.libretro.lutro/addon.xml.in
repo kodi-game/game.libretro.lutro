@@ -22,6 +22,7 @@
 		<summary lang="en_GB">Lua Engine (Lutro) 0.0.1</summary>
 		<description lang="da_DK">Lutro er en eksperimentel Lua-spilramme til libretro inspireret af LÖVE.</description>
 		<description lang="en_GB">Lutro is an experimental Lua game framework for libretro inspired by LÖVE.</description>
+		<description lang="it_IT">Lutro è un framework di gioco Lua sperimentale per libretro ispirato a LÖVE.</description>
 		<description lang="ko_KR">Lutro는 LÖVE에서 영감을 받은 libretro용 실험적인 Lua 게임 프레임워크입니다.</description>
 		<description lang="zh_CN">Lutro 是 Librector 的一个实验性 Lua 游戏框架，灵感来自LÖVE。</description>
 	</extension>
