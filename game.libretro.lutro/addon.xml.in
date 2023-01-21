@@ -19,6 +19,9 @@
 		<license>MIT</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.lutro</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+		</assets>
 		<summary lang="en_GB">Lua Engine (Lutro) 0.0.1</summary>
 		<description lang="da_DK">Lutro er en eksperimentel Lua-spilramme til libretro inspireret af LÖVE.</description>
 		<description lang="en_GB">Lutro is an experimental Lua game framework for libretro inspired by LÖVE.</description>
