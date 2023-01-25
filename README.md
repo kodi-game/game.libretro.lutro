@@ -13,7 +13,7 @@ MIT
 
 ### Icon
 
-![Icon](game.libretro.lutro/resources/icon.png)
+![Lua Engine (Lutro) icon](game.libretro.lutro/resources/icon.png)
 
 ### Fanart
 
