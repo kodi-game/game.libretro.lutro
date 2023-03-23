@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "Addon Summary"
-msgid "Lua Engine (Lutro) 0.0.1"
+msgid "Lua Engine (Lutro)"
 msgstr ""
 
 msgctxt "Addon Description"
