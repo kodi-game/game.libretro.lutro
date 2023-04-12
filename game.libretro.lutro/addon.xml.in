@@ -22,6 +22,7 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
+		<summary lang="da_DK">Lua Engine (Lutro)</summary>
 		<summary lang="en_GB">Lua Engine (Lutro)</summary>
 		<summary lang="es_ES">Motor Lua (Lutro)</summary>
 		<description lang="da_DK">Lutro er en eksperimentel Lua-spilramme til libretro inspireret af LÖVE.</description>
