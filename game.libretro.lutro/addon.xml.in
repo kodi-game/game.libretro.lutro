@@ -25,6 +25,7 @@
 		<summary lang="da_DK">Lua Engine (Lutro)</summary>
 		<summary lang="en_GB">Lua Engine (Lutro)</summary>
 		<summary lang="es_ES">Motor Lua (Lutro)</summary>
+		<summary lang="ko_KR">루아 엔진 (Lutro)</summary>
 		<summary lang="zh_CN">Lua 引擎（Lutro）</summary>
 		<description lang="da_DK">Lutro er en eksperimentel Lua-spilramme til libretro inspireret af LÖVE.</description>
 		<description lang="de_DE">Lutro ist ein experimentelles Lua-Spiele-Framework für libretro, inspiriert von LÖVE.</description>
