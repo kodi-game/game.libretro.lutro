@@ -23,6 +23,7 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
+		<summary lang="cs_CZ">Lua Engine (Lutro)</summary>
 		<summary lang="da_DK">Lua Engine (Lutro)</summary>
 		<summary lang="en_GB">Lua Engine (Lutro)</summary>
 		<summary lang="es_ES">Motor Lua (Lutro)</summary>
@@ -32,6 +33,7 @@
 		<summary lang="ru_RU">Lua Engine (Lutro)</summary>
 		<summary lang="sv_SE">Lua Engine (Lutro)</summary>
 		<summary lang="zh_CN">Lua 引擎（Lutro）</summary>
+		<description lang="cs_CZ">Lutro je experimentální herní framework v jazyce Lua pro Libretro inspirovaný LÖVE.</description>
 		<description lang="da_DK">Lutro er en eksperimentel Lua-spilramme til libretro inspireret af LÖVE.</description>
 		<description lang="de_DE">Lutro ist ein experimentelles Lua-Spiele-Framework für libretro, inspiriert von LÖVE.</description>
 		<description lang="en_GB">Lutro is an experimental Lua game framework for libretro inspired by LÖVE.</description>
