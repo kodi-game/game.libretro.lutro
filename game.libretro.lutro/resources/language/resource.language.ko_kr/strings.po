@@ -24,3 +24,8 @@ msgstr "루아 엔진 (Lutro)"
 msgctxt "Addon Description"
 msgid "Lutro is an experimental Lua game framework for libretro inspired by LÖVE."
 msgstr "Lutro는 LÖVE에서 영감을 받은 libretro용 실험적인 Lua 게임 프레임워크입니다."
+
+# Empty string with ID 30000
+msgctxt "#30001"
+msgid "Mouse Input Device"
+msgstr ""

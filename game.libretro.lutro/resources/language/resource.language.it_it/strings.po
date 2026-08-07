@@ -24,3 +24,8 @@ msgstr "Lua Engine (Lutro)"
 msgctxt "Addon Description"
 msgid "Lutro is an experimental Lua game framework for libretro inspired by LÖVE."
 msgstr "Lutro è un framework sperimentale di giochi Lua per libretro ispirato da LÖVE."
+
+# Empty string with ID 30000
+msgctxt "#30001"
+msgid "Mouse Input Device"
+msgstr ""
