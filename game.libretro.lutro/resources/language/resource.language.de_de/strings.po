@@ -29,3 +29,15 @@ msgstr "Lutro ist ein experimentelles Lua-Spiele-Framework für libretro, inspir
 msgctxt "#30001"
 msgid "Mouse Input Device"
 msgstr ""
+
+msgctxt "#30002"
+msgid "Select the input device to manage lutro.mouse. 'Mouse' tracks relative movement, while 'Pointer' maps absolute coordinates."
+msgstr ""
+
+msgctxt "#30003"
+msgid "Mouse"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Pointer"
+msgstr ""
