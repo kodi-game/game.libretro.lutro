@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.lutro"
 		name="Lua Engine (Lutro)"
-		version="0.0.1.46"
+		version="0.0.1.47"
 		provider-name="Higor Euripedes/Jean-Andre Santoni">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -9,12 +9,12 @@
 	</requires>
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
-		<platforms>LUA</platforms>
+		<platforms>Lua Engine</platforms>
 		<extensions>lutro|lua</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
 		<supports_disc_control>false</supports_disc_control>
-		<requires_opengl>false</requires_opengl>
+		<libretro_core>lutro_libretro</libretro_core>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<license>MIT</license>
